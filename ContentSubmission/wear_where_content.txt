@@ -1,0 +1,147 @@
+ Gender:Female
+        Upper Body Wear
+    freezing
+{
+    Calvin Klein Coat
+    Fat Goose Jacket
+    North Face Jacket
+}
+    chilly
+{
+    Hoodie
+    Long Sleeve
+    Full Sleeve Shirts
+    Sweaters
+    Baggy Sweaters
+    Cardigan
+}
+    warm
+{
+    Graphic Tees 
+    Plain Tee
+    Blouses
+}
+    hot
+{
+    Tank Tops
+    Sleveless
+}
+--
+        Lower Body Wear
+    freezing
+{
+    Jeans
+    Leggings
+    Joggers
+    Jeggins
+}
+    chilly
+{
+    Jeggins
+    Leggings
+    Jeans
+}
+    warm
+{
+    Leggings
+    Capris
+    Capri Leggings
+}
+    hot
+{
+    Capris
+    Leggings
+    Active Wear
+}
+--
+        Overall Wear
+    freezing
+{
+    Calvin Klein Coat
+    Fat Goose Jacket
+    North Face Jacket
+    Jeans
+    Leggings
+    Joggers
+    Jeggins
+}
+    chilly
+{
+    Hoodie
+    Long Sleeve
+    Full Sleeve Shirts
+    Sweaters
+    Baggy Sweaters
+    Cardigan
+    Jeggins
+    Leggings
+    Jeans
+}
+    warm
+{
+    Graphic Tees 
+    Plain Tee
+    Blouses
+    Leggings
+    Capris
+    Capri Leggings
+}
+    hot
+{
+    Tank Tops
+    Sleveless
+    Capris
+    Leggings
+    Active Wear
+}
+--
+        Footwear
+    freezing
+{
+    Full Length Leather Boots
+}
+    chilly
+{
+    Half Length Leather Boots 
+    Sneakers  
+    Furry Moccasins
+}
+    warm
+{
+    Sneakers
+    Sandals
+    Flats
+    Boat Shoes      
+}
+    hot
+{
+    Flats
+    Sandals
+    Boat Shoes
+    Flip Flops
+}
+--
+        Miscellaneous
+    freezing
+{
+    Earrings
+    Scarf
+    Gloves
+    Beanie
+}
+    chilly
+{
+    Scarf
+    Earrings
+}
+    warm
+{
+    Earrings
+    Necklace
+    Bracelet
+}
+    hot
+{
+    Earrings
+}
+--
